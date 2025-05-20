@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott Chappell</h1>
 <h3 align="center">A new fullstack software engineer</h3>
 
-- 🔭 I’m currently working on [NewsExplorer](https://github.com/scottchappell99/news-explorer-backend)
+- 🔭 I’m currently working on [NewsExplorer](https://github.com/scottchappell99/news-explorer-backend), Reach with Ease (a project for my aunt), and a project for TripleTen.
 
 - 👨‍💻 All of my projects are available at [https://github.com/scottchappell99](https://github.com/scottchappell99)
 
